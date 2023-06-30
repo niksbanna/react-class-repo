@@ -1,0 +1,6 @@
+{
+    "moduleNameMapper": {
+        "\\.(css|scss)$": "<rootDir>/__mocks__/App.scss.js"
+    },
+    "testEnvironment": "jsdom"
+}
